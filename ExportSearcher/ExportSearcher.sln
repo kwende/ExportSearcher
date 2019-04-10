@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportSearcher", "ExportSearcher.csproj", "{56511488-2D93-4FFF-BACD-11B35C5475FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56511488-2D93-4FFF-BACD-11B35C5475FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56511488-2D93-4FFF-BACD-11B35C5475FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56511488-2D93-4FFF-BACD-11B35C5475FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56511488-2D93-4FFF-BACD-11B35C5475FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453F8667-D05F-49DF-BCCA-6BCF668F3B80}
+	EndGlobalSection
+EndGlobal
